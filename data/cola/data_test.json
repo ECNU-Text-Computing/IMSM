@@ -1,0 +1,1043 @@
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The sailors rode the breeze clear of the rocks.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The weights made the rope stretch over the pulley.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The mechanical doll wriggled itself loose.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:If you had eaten more, you would want less.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:As you eat the most, you want the least.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The more you would want, the less you would eat.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I demand that the more John eat, the more he pays.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Mary listens to the Grateful Dead, she gets depressed.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The angrier Mary got, the more she looked at pictures.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The higher the stakes, the lower his expectations are.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The more Fred is obnoxious, the less attention you should pay to him.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John was lots more obnoxious than Fred.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The more people you give beer to, the more people get sick.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The more does Bill smoke, the more Susan hates him.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The more pictures of him that appear in the news, the more embarrassed John becomes.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Every senator seems to become more corrupt, as he talks to more lobbyists.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Who does John visit Sally because he likes?\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Marianne did not leave.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:He could not] have been working.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:He can not have been working.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:You will believe Bob.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John has not kissed Mary.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I said that never in my life had I seen a place like Bangor.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Mickey looked up it.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:There tended to be a lot of discussion.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John tried to be a good boy.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John is eager.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:We want John to win.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The box contained the ball from the tree.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The tube was escaped by gas.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Water bubbled up out of the kettle.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The tub leaked water.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:What the water did to the bottle was fill it.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:What the water did to the whole bottle was fill it.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The tank leaked the fluid free.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John lay the ball in the box.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John owns the book.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:We persuaded Mary to leave and Sue to stay.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Most people probably consider, even though the courts didn't actually find, Klaus guilty of murder.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Mary beautifully plays the violin.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Clearly, John probably will immediately learn French perfectly.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Sue gave to Bill a book.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The men will all leave.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John went home.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:They represented seriously to the dean Mary as a genuine linguist.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Us love they.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:It is nice to go abroad.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Mary intended John to go abroad.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I remembered having kissed Mary.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I can't believe Fred won't, either.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John wants to read Fred's story, and I also want to.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:We wanted to invite someone, but we couldn't decide who to.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Mary will read Fred's story, and Joe will read Holly's.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Mary claimed that eating cabbage, Holly shouldn't.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Mary came to be introduced by the bartender and I also came to be.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:If I can, I will work on it.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Joe's neuroses bother his patrons, and Sally does too.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I know which book Jos\u00e9 didn't read for class, and which book Lilly did it for him.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:This is the book which Bob reviewed, and this is the one which Fred won't do it.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I know which book Mag read, and which book Bob said that you hadn't.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I know which book Mag read, and which book Bob read my report that you hadn't.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I'm sure I would like him to eat fruit more than I would cookies.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Rusty talked about himself only after Mary did talk about him.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Fred talked about everything before Rusty did talk about something.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John often meets Mary.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The problem perceives easily.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:A hundred men surrounded the fort.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:We elected me.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Which report that John was incompetent did he submit?\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Mary has always preferred lemons to limes.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:He let the cats which were whining out.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:What did Bill buy?\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Mary saw the boy walking toward the railroad station.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:A proof that the claim had been. made was giver that John had lied.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:He attributed to a short circuit which was caused by an overloaded transducer the fire which destroyed most of my factory.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The mayor regarded as being absurd the proposal to build a sidewalk from Dartmouth to Smith.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I want that Bill left to remain a secret.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I know a man who Tom drives as drives.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Drowning cats, which is against the law, are hard to rescue.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Muriel said nothing else than that she had been insulted.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Himself is understood by Rutherford.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I feel that Arch will show up.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The proof this set is recursive is difficult.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The madrigals which Henry plays the lute and sings sound lousy.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Tom picked these grapes, and I washed some turnips, and Suzie will prepare these grapes.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Where did you go and who ate what?\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Which boy's did we elect guardian's employer president?\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:How sane is Peter?\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I live at the place where Route 150 crosses the River and my dad lives at the place where Route 150 crosses the Hudson River too.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I live at the place where Route 150 crosses the Hudson River and my dad lives at it too.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Who is she trying to make up to now?\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Wind was gotten of a plot to negotiate an honorable end to the war in Vietnam.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Mike talked about politics yesterday to my friends.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:It was expected by the reporters that the principal would fire some teacher.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Which hat did Mike quip that she never wore?\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Which girl did Mike quip never wore this hat?\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:We donated wire for the convicts to build cages with.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I won't have some money.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Do you believe the claim that somebody was looking for something?\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I won't ask you to believe that he tried to force me to give her any money.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:That Sam sometimes didn't sleep must have pleased somebody.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I talked to Winston about himself.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:That the fuzz wanted him worried John, but that the fuzz wanted her didn't worry Mary.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I'll work on it if Sam will be working on it.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I'll work on it if I can.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Here's a knife with which for you to cut up the onions.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Fluffy is sick, which not everybody knows.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Maxwell is quite a doctor.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The younger woman might have been tall and, and the older one definitely was, blond.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Sally is tall, and may be blond, and Sheila is short, and definitely is, blond.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I have to try to finish grading some papers.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The socks are ready for for you to put on to be planned.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:It is easy to play sonatas on this violin.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:This violin is difficult to play sonatas on.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:My mother is easy to please my father and.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Poor Bill, it had started to rain and he had no umbrella.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:That the cops spoke to the janitor about it yesterday is terrible, that robbery.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Every student, and he wears socks, is a swinger.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:That girl was given my binoculars by him.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Bill didn't allege that Roger had eaten anything.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Nobody who hates to eat anything should work in a delicatessen.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Everybody around here who ever buys anything on credit talks in his sleep.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I can't remember the name of somebody who had misgivings.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:No writer, and no playwright, meets in Vienna.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:No writer, nor any playwright, meets in Vienna.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:That you will marry any student is not certain.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Felicia kicked the ball off the bench.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I sent the package halfway around the world.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Sam gave the ball out of the basket.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Sam offered the ball out of the basket.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Park Square has a festive air.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The worker will have a job.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:No one can forgive that comment to you.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:We launched the rocket to the moon, but it blew up before it got there.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Sarah promised Catherine her old car, but then gave it to her son instead.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I lent the book partway to Tony.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The farmer loaded the cart with apples.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The farmer dumped the cart with apples.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Martha carved the baby a toy out of wood.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The bread cuts easily.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Janet broke Bill on the finger.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Janet broke the cup.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The visitor rang the bell.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:We pulled free.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:That movie always shocks people.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:That movie always shocks.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Sharon came the room.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Bill sent a package to Tom.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:That acorn will grow into an oak tree.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:He turned into a frog.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I mixed the sugar into the butter.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Brian threw the fence with the stick.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Mira condemned Terry for the accident.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:We investigated the area for bombs.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I sensed his eagerness.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:They praised the dedication in the volunteers.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The earth was believed to be round.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Sarah smiled a charming smile.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Sandra beamed a cheerful welcome.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:You've really lived it up.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Paperback books lift onto the table easily.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The books lifted onto the table.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Jessica loaded boxes under the wagon.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Jessica loaded boxes on the wagon.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Jessica crammed boxes at the truck.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Lora buttered at the toast.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Carla shoveled the walk.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Nora sent the book.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Nora sent Peter the book.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Carla slid the book.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Carla slid at the book.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Amanda carried the package to Pamela.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Packages drive easily to New York.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The chair pushed.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:We offered a job to her.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:A job offered.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Brown presented a plaque to Jones.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Carmen bought Mary a dress.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Carmen obtained the spare part at the hardware store.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Michelle kept the desk with the papers.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Frances hid the presents in the drawer.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The needle poked the cloth.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Carrie touched that cat.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Herman whipped the sugar and the cream.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Linda taped the picture to the wall.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Linda taped the picture onto the wall.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The child and her mother clung together.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:This flyer and that flyer differ.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:This flyer and that flyer differ apart.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The jeweller scribbled the contract with his name.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The gardener grew that acorn into an oak tree.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I shaped a loaf.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The children amused.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Susan whispered the news.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Susan whispered at Rachel.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Ellen said that melons were selling well.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Ellen said about the present conditions.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Ellen warned Helen against skating on thin ice.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Cynthia nibbled on the carrot .\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Cynthia chewed.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Paul laughed at Mary.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Linda winked her lip.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:My heart is pounding me.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Sharon fainted from hunger.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The witch poisoned the children.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:A grandfather clock ticked in the hallway.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I squeaked the door.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Over the fire there bubbled a fragrant stew.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Soaring temperatures are predicted for this weekend.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The fort fluttered with many flags.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The voices echoed in the hall.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The stream twists through the valley.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:There presented itself a wonderful opportunity yesterday.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:A wonderful opportunity presented itself to him yesterday.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Out of the box jumped a little white rabbit.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Penny skated around the rink.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Jackie accompanied Rose.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:many information was provided.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John offers many advice.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The cake that Jones got was more delicious than the one that Smith got.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:We recommend to eat less cake and pastry.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I saw that gas can explode.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:He washed her.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Wash you!\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:They have no in.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Some my jobs are in jeopardy.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:It was the policeman met that several young students in the park last night.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:did the policeman meet in the park?\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John put old books in the box.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The monkeys proud of their leader.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John sounded very.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I don't know if I should agree.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John bought a book on the table.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John called the president a fool.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I forgot how good beer tastes.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:This teacher is a genius.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:A good friend is remained to me by him.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John ate his noodle quietly.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:A smith hammered the metal.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Sandy removed her ballet shoes.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:This week will be a difficult one for us.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Benny worked in a shoe factory when he was a student.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Everyone hoped that she would sing.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:This proved a decisive factor.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The crocodile devoured the doughnut.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John is afraid of Bill.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John put under the bathtub.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John placed Kim behind the garage.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Kim depends for Sandy.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John put the book in the box.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John taught English Syntax to new students.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John regards Bill as a good friend.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Kim put in the box.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The chickens seem fond of the farmer.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The rules require that the executives be polite.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:That Fred was unpopular nominated Bill.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:They were taking a hard look at possible FTA.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John paid me against the book.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The committee will study the feasibility of setting up a national computer network.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:We made them be rude.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:After reading the pamphlet, Judy threw it into the garbage can.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Students studying English reads Conrad's Heart of Darkness while at university.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I read some of the book.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Most of the fruit is rotten.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Neither of students failed.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I drank some of water.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:It is a golden hair.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The boy in the doorway waved to his father.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:That dog is so ferocious, it even tried to bite itself.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:He washed yourself.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John is easy to please Kim.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:There seemed to be intelligent.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John tried to please Stephen.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:We believed John to be a fountain in the park.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:It tries to leave the country.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John tries to leave the country.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Under the bed seems to be a fun place to hide.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:There is believed to be sheep in the park.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I hope to would study in France.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John can kick the ball.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John will rain tomorrow.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:We expect there to will rain.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John was found in the office.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Did the child be in the school?\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:It did not rain.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John wants not to leave the town.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Mary likes to tour art galleries, but Bill hates to.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:They needn't take this exam.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Ann may spend her vacation in Italy.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:They love to play golf, but I do not.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:George has spent a lot of money, hasn't he?\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:As a statesman, scarcely could he do anything worth mentioning.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:We never found any of the unicorns.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:One of Korea's most famous poets wrote these lines.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Somebody apparently struck the unidentified victim during the early morning hours.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The car was driven.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Ricky can be relied on.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The bed was slept in.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:A pound was weighed by the book.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Who do you think Tom saw?\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:he had spent five thousand dollars.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Fed knows which politician her to vote for.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:How did you guess that he fixed the computer?\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The committee knows whose efforts to achieve peace the world should honor.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Which house does your friend live?\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:the baker from whom I bought these bagels left.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I found the place where we can relax.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Jack is the person with whom Jenny fell in love with.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:There is a bench to sit on.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I met the man who grows peaches.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Which topic did you choose without getting his approval?\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Which topic did you get bored because Mary talked about?\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:That is the reason why he resigned.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:It bothers me that John coughs.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:To please John is easy.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Kim is eager to please Tom.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:That we invaded Iraq really bites.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:It annoys me that Fido barks.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Who achieved the best result was Angela.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:It was the peasant girl who got it.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:That kind of person is hard to find anyone to look after.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:A sick owl doesn't hunt mice.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Each candidate who has interest in semantics will be admitted to the department.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Each author whose contribution is written in any language other than English will provide a summary in English.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I'm sure we even got these tickets!\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I'm even sure we got these tickets!\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:It's not because I have any sympathy for urban guerillas that I helped him.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:It isn't because Sue said anything bad about me that I'm angry.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:That he was hungry, John whined.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:1 gave Mary after the party a book.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Because she's so pleasant, as for Mary I really like her.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Though he may hate those that criticize Carter, it doesn't matter.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:With no job would John be happy.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I have much of the manuscript left to type.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:He's a more reliable man.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Any trouble is what I don't want.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:They may grow as high as bamboo.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Some of them made as many errors as 20.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Sally kissed himself.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Drew believes I think Rosie loves magazine ads.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Dave, Dan, Erin, Jaime, and Alina left.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Hopefully, we'll make it through the winter without snow.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Blue leather shows herself that Betsy is pretty.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Gwen hit the baseball.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I hit that you knew the answer.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I've lost my wallet or I've lost my mind.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:It was a brand new car that he bought.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:He likes cookies and he hates crumb cake.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:They chased the man with the car.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I didn't have a red cent.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:the book of poems and from Blackwell takes a very long time to read.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:the one with a red cover takes a very long time to read.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John has a fear of dogs.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The building's the roof is leaking.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:the panther's the coat is dark black.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Colin asked if they could get a mortgage.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The man I saw get into the cab robbed the bank.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I know you eat asparagus.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John's drum will always bother me.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:An evil thought struck Dave.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:In the classroom John put the book on the table.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Phillip gave the medal to the soldier.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Heidi thinks that Andy to eat salmon flavored candy bars.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Heidi thinks that Andy should eat salmon flavored candy bars.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:He danced.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Did Calvin his homework?\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Sylvia was slapping Jeff upside the head in martial arts class.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:If I am a rich man, I'd buy a diamond ring.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:If he were a rich man, he'd buy a diamond ring.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John is likely to leave.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The manager laughed.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Was sunk.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Who did you think kissed the gorilla?\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Have you seen my model airplane collection?\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:It seems that Lucy was mugged.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I ate a salad that was filled with lima beans.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:There were four men arriving at the station when I pulled up.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Jean is reluctant to dance.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I want her to dance.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Jean persuaded Robert.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Jean wants Bill to do the Macarena.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The children admire their mother.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Who has Peter talked with?\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Heidi likes her violin.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John thinks that Mary loves himself.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Which pictures of himself does John like?\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Any owl hunts mice.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Any man didn't eat dinner.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:A pilot could be flying this plane.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Everybody who attended last week's huge rally, whoever they were, signed the petition.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Anybody who attended last week's huge rally signed the petition.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Any tiger has orange fur, marked with black stripes.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Any albino tiger has orange fur, marked with black stripes.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:You must pick any flower you see.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Any pilot on duty today could be flying this plane.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:You may pick every flower, but leave a few for Mary.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The Dodgers beat the Red Sox and were beaten by the Giants.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:In which car was the man seen?\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The man who Mary loves and Sally hates computed my tax.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The kennel which Mary made and Fido sleeps has been stolen.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Tom said he would and Bill actually did eat a raw eggplant.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The wealthy young man bought that piano for his secret fianc\u00e9e.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The dog stole the turkey.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:a tall building.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:This building is tall.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I like the book which you gave me.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Captain Wentworth wrote a letter to Anne Elliott.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:She asked was Alison coming to the party.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:They realised that never had Sir Thomas been so offended.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Fanny regretted having to talk to Aunt Norris.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Knowing the country well, he took a short cut.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:He left the train with somebody else's wallet in his pocket.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Magnus went to Ireland.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Who did John send the book?\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The idea dismayed the Prime Minister that the Dome was dull.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Came right in he did without so much as a knock.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Harriet admired Mr Knightley.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The book is boring.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Ethel wishes to ask you some awkward questions.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Emma made Harriet some food.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The window was broken with a hammer.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The fugitive lay motionless in order to avoid discovery.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The guard marched the prisoners round the yard.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Frank Churchill crossed the street.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Emma and Harriet were attacked yesterday.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Fiona might be here by 5 o'clock.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I am both expecting to get the job and of the opinion that it is a desirable one.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Pat was awarded the Golden Fleece Award and very upset about it.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Kim alienated cats and beating his dog.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:They knew that pictures of each other would be on sale.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Which article did Terry file papers without reading?\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I want to try and buy some whiskey.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:She goes and buying some whiskey.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Kim and Terry is happy.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Kim gave a dollar to Bobbie and a dime to Jean.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:This girl in the red coat will put a picture of Bill in the mailbox and on your desk before tomorrow.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Put a picture of Bill on your desk before tomorrow, this girl in the red coat will put a picture of Bill on your desk before tomorrow.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Picture of Bill, this girl in the red coat will put a picture of Bill on your desk before tomorrow.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Ann bought a first edition of Richard III for $1000.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John became deadly afraid of flying.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:What John promised is to be gentle.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Henri wants to buy which books about cooking?\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I will fix the computer for Carol.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Smith loaned a valuable collection of manuscripts to the library.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The paper is cut by Mary.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:It was from six to nine or it took place from six to nine.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Suddenly, there arrived two inspectors from the INS.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The soup cooks, thickens.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I gave money to the charity.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John asked.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I saw even the student.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John whispered Mary left.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Mary wonders that Bill will come.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Sophie will theater.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John finished the cake and drank the lemonade.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Herself likes Mary's mother.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Each of the boys fought with some of the other boys.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John's mother likes himself.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Mary revealed himself to John.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Mary believes that Bill saw himself.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John heard that they criticized themselves.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Mary thinks that she is smart.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Henry found that Bill is sad.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John considers himself proud of Mary.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:You should sit before there.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:There is a nurse available.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Everyone hopes everyone to sleep.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Everyone hopes that he will sleep.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Only Churchill remembered Churchill giving the Blood, Sweat and Tears speech.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John promise Mary to shave himself.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John convinced Bill that Mary should sleep.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I saw Bill while you did so Mary.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:What Mary did Bill was give a book.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The bears sniffed\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:to steal talismans from witches is dangerous\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Anson demonized\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:You kicked yourselves\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The book that I said that I'd never read.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Anson demonized up the Khyber\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:It is not true that I might be going to the party.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Kick you!\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Jason persuaded the doctor to treat Medea\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Who did you get an accurate description of?\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The Peter we all like was at the party\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The government's imposition of a fine.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Did Athena help us?\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:You wanted to meet the man I saw.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Anson demonized David every day\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:There is a programme about Euripides on a Radio 4 tonight?\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Medea denied poisoning the phoenix.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The elixir was hidden in a hole in the ground\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Extremely frantically, Anson danced at Trade\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:What did you ask who Medea gave?\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:It's Anson that I like\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Medea tried the nurse to poison her children.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I felt that I know you.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Will he can do it?\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I ate that she was happy\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Anson believed himself to be handsome.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:We arrived about six o'clock\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Gilgamesh is having fought the dragon.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Anson thought that himself was happy.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Fortunately Hermione passed biology\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I might be not going to the party but washing my hair\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I thought he liked myself\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The butler sent the poison to Dinah.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Jason happens to appear to seem to be sick.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:What did you ask who saw?\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:We linguists love to argue\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:He can will go\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:How fierce the battle?\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Which king did you ask which city invaded?\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:It is some disgruntled old pigs in those ditches that humans love to eat.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:That banana is eating the monkey.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Burn them!\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:It stinks that Aphrodite is omnipotent.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Agamemnon seems to be a maniac\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Will Anson come to the party?\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I wondered who Medea had poisoned.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I inquired when could we leave.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:They kicked them\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The monkey is ate the banana\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I would like to could swim\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I kicked myself\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The bookcase ran\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I shaved myself.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Anson became a muscle bound.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Somebody just left - guess who.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:They claimed they had settled on something, but it wasn't clear what they had settled on.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:If Sam was going, Sally would know where.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:They're going to serve the guests something, but it's unclear what.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:She's reading. I can't imagine what.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John said Joan saw someone from her graduating class.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John ate dinner but I don't know who.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:She mailed John a letter, but I don't know to whom.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I served leek soup to my guests.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I served my guests.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:She was bathing, but I couldn't make out who.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:She knew French for Tom.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John is tall on several occasions.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The ship sank, but I don't know with what.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:They noticed the painting, but I don't know for how long.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John was tall, but I don't know on what occasions.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Joan ate dinner with someone but I don't know who.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Joan ate dinner with someone but I don't know who with.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I know that Meg's attracted to Harry, but they don't know who.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Since Jill said Joe had invited Sue, we didn't have to ask who.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I know that Meg's attracted to Harry, but they don't know who.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:She said she had spoken to everybody, but he wasn't sure who.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Each of the performers came in, but were sitting so far back that we couldn't see who.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:She didn't talk to one student.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:She doesn't meet anyone for dinner, but they can't figure out who.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Everyone relies on someone. It's unclear who.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Each student wrote a paper on a Mayan language, but I don't remember which one.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The newspaper has reported that they are about to appoint someone, but I can't remember who they are about to appoint.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Most columnists claim that a senior White House official has been briefing them, and the newspaper today reveals which one.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Most columnists claim that a senior White House official has been briefing them, but none will reveal which one.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Bill wondered how many papers Sandy had read, but he didn't care which ones.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I never know which papers Sandy has read, but I usually know how many.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Sandy had read how many papers?!\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Everybody gets on well with a certain relative, but often only his therapist knows which one.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Which book did each author recommend?\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:His or her least known work.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:They were going to meet sometime on Sunday, but the faculty didn't know when.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John likes some students, but I don't know who.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I don't know who John likes.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John likes some students, but I don't know who John likes some students.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Joan said she talked to the students, but Fred couldn't figure out who.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:He announced he had eaten the asparagus, but we didn't know what.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:She was reading the books under the table, but Fred didn't know what books.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:He announced he would marry the woman he loved most, but none of his relatives could figure out who.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:She talked to John or Mary but I don't know which.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:She talked to John or Mary but I don't know which one.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:She talked to Harry, but I don't know who else.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I will see them, but I don't know how many of them.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Everyone who knows either Susan or Laura likes her.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:She said she talked to three students but I don't know how many.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:She said she talked to those students but I don't know how many.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:He shouted again, but I don't know who to.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:She was dancing with somebody, but I don't know who with.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Several firefighters were injured, but it's not known.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Meg is attracted to Harry, but they don't know who she is attracted to.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Sandy was trying to work out which students would be able to solve a certain problem, but she wouldn't tell us which one.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Sandy was trying to work out which students would be able to solve a certain problem, but she wouldn't tell us which one.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John and someone were dancing together, but I don't know who.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The TA's have been arguing about whether some student or other should pass, but I can't now remember which one.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:It has been determined that somebody will be appointed; it's just not clear yet who.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Sally asked if somebody was going to fail math class, but I can't remember who.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The TA's have been arguing about whether some student or other should pass, but I can't now remember which one.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Sandy is very anxious to see if the students will be able to solve the homework problem in a particular way, but she won't tell us which.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Sandy is very anxious to see if the students will be able to solve the homework problem in a particular way, but she won't tell us in which way.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Clinton is anxious to find out which budget dilemmas Panetta would be willing to tackle in a certain way, but he won't say in which.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Sandy is wondering whether there will be students who have to drop the class for a certain reason, but she won't reveal what.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:In which way is Sandy very anxious to see if the students will be able to solve the homework problem?\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:In which way is Clinton anxious to find out which budget dilemmas Panetta would be willing to solve?\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I know how many assignments I've graded, but I don't know how many Bill has.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:What did you leave before they did?\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:What did you leave before they started playing?\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Sandy was trying to work out which students would be able to solve a certain problem.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The administration has issued a statement that it is willing to meet with one of the student groups.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Sandy was trying to work out which students would be able to solve a problem.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The administration has issued a statement that it is willing to meet a student group.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The administration has issued a statement that it is willing to meet a student group, but I'm not sure which one.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I think Agnes said that Bill would speak, but I don't remember what about.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Agnes wondered how John could eat but it's not clear what.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Tony sent Mo a picture that he painted, but it's not clear with what.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:She's been dancing but we don't know with whom.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Who did they see someone?\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:It was believed by everybody that Mary was a thief.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:That professor is feared by all students.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Mary was respected by John.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Ted was bitten by the spider.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The book was by John written.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The argument was summed by the coach up.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The paper was written up by John.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The paper was written by John up.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John was spoken to by Mary.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John was spoken by Mary to.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The book was seen by Mary.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John was seen the book.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The book was written.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John was spoke by Mary to.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The table was wiped clean by John.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The table was wiped by John clean.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Mary was given by John the book.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John was believed to be telling the truth by Mary.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John was believed by Mary to be telling the truth.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The car was driven by John to Maine.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:It was believed by the students that they would have an exam.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The magazines were sent to herself by Mary.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Chocolate eggs were hidden from each other by the children.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The magazines were sent by Mary to herself.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Chocolate eggs were hidden from no child by any adult.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Tabs were kept on each agent by the other.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Chocolate eggs were hidden from every child by his mother.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Books were taken from no student and given to Mary.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Books were taken from no student and given to Mary by any professor.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Books were taken from each student by the other.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Books were taken from each student and given to Mary.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Books were taken from each student and given to Mary by the other.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Jack hates Sue and is loved by Mary.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Vera sent a baby alligator to Max and a leather dinosaur to Phyllis.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Either Sam plays the bassoon or Jekyll the oboe.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Sam doesn't play bassoon, nor Medusa oboe.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Bill ate the peaches, but Harry the grapes.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I no more could have stolen that steak than Jack the diamonds.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Bill ate more peaches than Harry did grapes.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Bill ate the peaches and Harry did the grapes.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Tom will smoke the grass, and Reuben has the hash.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:If the ants were called elephants and elephants ants, I'd be able to squash an elephant.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Simon quickly dropped the gold, and Jack the diamonds.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Bob tried to wash himself, and Mary to read the funnies.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Harry told Sue that Albania is a lovely place for a vacation, and Tom told Sally that Albania is a lovely place for a vacation.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Harry told Sue that Albania is a lovely place for a vacation, and Tom.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Max seemed to be trying to begin to love Harriet, and Fred to be trying to begin to love Sue.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Max seemed to be trying to force Ted to leave the room, and Walt, Ira.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Max seemed to be trying to force Ted to leave the room, and Walt to stay a little longer.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Arizona elected Goldwater Senator, and Massachusetts, McCormack.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Millie will send the President an obscene telegram, and Paul, the Secretary a rude letter.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Maytag will give a brand-new dryer to the winner of the Mrs.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Bill didn't eat the peaches, nor Harry.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Bill ate the peaches, and Harry did, too.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Bill must quickly eat the peaches, and Harry must slowly.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Whenever Russia has made a major political blunder, the U.S. has too.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Bill's story about Sue and Max's about Kathy both amazed me.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I bought three quarts of wine and two of Clorox.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Scientists at the South Hanoi Institute of Technology have succeeded in raising one dog with five legs, another with a cow's liver, and a third with no head.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Bill's story about Sue may be amazing, but Max's is virtually incredible.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I like Bill's yellow shirt, but not Max's.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Bill's funny story about Sue and Max's boring one about Kathy both amazed me.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Bill's wine from France and Ted's from California cannot be compared.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:As a teacher, you have to deal simultaneously with the administration's pressure on you to succeed, and the children's to be a nice guy.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Neither Von Karajan's recording of Beethoven's 6th on Columbia nor Klemperer's on Angel has the right tempo.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Gould's performance of Bach on the piano doesn't please me anywhere as much as Ross's on the harpsichord.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Tom's dog with one eye attacked Frank's with three legs.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Because Steve's of a spider's eye had been stolen, I borrowed Fred's diagram of a snake's fang.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Neither von Karajan's recording of Beethoven's 6th on Columbia nor Klemperer's has the right tempo.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Tom's dog with one eye attacked Fred's.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I borrowed Fred's diagram of a snake's eye because Steve's had been stolen.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Jerry attempted to blow up the Pentagon.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:So fast did he run that nobody could catch him.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Bill bought a red house, and Max bought one too.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Who always drinks milk?\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The book which inspired them was very long.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The book what inspired them was very long.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I know the person whose mother died.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The person whose mother's dog we were all fond of.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I wonder whose mother died.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I wonder whose mother's dog died.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I wonder to whom they dedicated the building.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Give me the phone number of the person whose mother's dog died.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:This is the senator to whose mother's friend's sister's I sent the letter.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I want goes to the store.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I wonder what to be a clown on the cover of.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Bother you that Kim left!\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:A student who to talk to us just walked in.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Whose bagels do you like?\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I wonder in whom to place my trust.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:There were several old rocks songs that she and I were the only two who knew.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:It was to to amuse us that Kim was singing that they wanted.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:What they feared most was to be no one available to help them.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:We tried to amuse them that Kim was singing.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Mary asked me if, in St. Louis, John could rent a house cheap.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Mary arranged for, in St. Louis, John to rent a house cheap.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:It would be unwise for there to be no fire exit.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I believe there to be no way out.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I wonder in whom them to place their trust.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I wonder whom us to trust.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I wonder who for us to trust.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I wonder who to place my trust in.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I know the people that voted in the election.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I threw away a book that Sandy thought we had read.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I thought that you were sick.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I dislike the people in who we placed our trust.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I dislike the company in which we placed our trust.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I dislike the people in whose house we stayed.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I dislike the person with whom we were talking.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Jones, that we were talking to last night, always watches football games alone.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:A letter was received that Jones would be upset by.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:A letter was received Jones would be upset by.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I saw someone yesterday I hadn't seen for years.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Something happened I couldn't really talk about.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The only person that I like whose kids Dana is willing to put up with is Pat.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The book that I like which everyone else in the class hates was written by John.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The only person whose kids Dana is willing to put up with was written by John.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The book that I like - everyone else in the class hates.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The only person whose kids Dana is willing to put up with is Pat.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Which book's, author did you meet?\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Which boy's, mother, did you meet who you liked?\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Which book's, author did you meet who you liked?\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Which boy's, mother, did you meet?\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:All who lost money in the scam are eligible for the program.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Who for Sandy to talk to is still enrolled in the class?\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Who who you like does Sandy also like?\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Everything you like is on the table.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The bills passed by the House yesterday that we objected to were vetoed.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The only people being added to our group who were at Harvard were students.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:We like ourselves.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Nobody likes us.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Leslie likes ourselves.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Ourselves like ourselves.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:She voted for herself.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:We gave us presents.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:We gave ourselves presents.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:We gave presents to ourselves.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:We gave us to the cause.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:We gave ourselves to the cause.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Leslie told us about us.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Leslie told ourselves about us.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:We think that Leslie likes us.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:We think that Leslie likes ourselves.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Our friends like us.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Those pictures of us offended us.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:We found your letter to ourselves in the trash.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Vote for you!\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Vote for yourself!\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:We appeared to them to vote for themselves.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:We admired the pictures of us in the album.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:We admired the pictures of ourselves in the album.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Leslie used a pen.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:We put the pigs in a pen.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:We need to pen the pigs to keep them from getting into the corn.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:They should pen the letter quickly.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The car won't run.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:This dye will run.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:She can run an accelerator.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:These stockings will run.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:We need another run to win.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Lee saw the student with a telescope.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I forgot how good beer tastes.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Visiting relatives can be boring.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:If only Superman would stop flying planes!\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:That's a new car dealership.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I know you like the back of my hand.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Max is on the phone now.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I saw her duck.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I'm creating a committee. Kim \u2013 you're in charge.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Lights go out at ten. There will be no talking afterwards.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:They found the book on the atom.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Which experts testified against defendants who exposed them?\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:List all experts for the defendant who represented himself.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:List associates of each defendant who speaks Spanish.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:They lost themselves' books.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Some sentences go on and on and on.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Sentences some go on and on and on and on.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:That surprised me.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I noticed the.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:They were interested in his.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:This is my favorite.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:A large dog chased a small cat.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Some people yell at noisy dogs in my neighborhood.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Some people yell at the dogs in my neighborhood.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Some people yell at the dogs.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Some people yell at noisy dogs.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Some people yell at dogs.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Some people consider the noisy dogs dangerous.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Some people consider the dogs in my neighborhood dangerous.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Some people consider noisy dogs in my neighborhood dangerous.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Some people consider the dogs dangerous.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Some people consider noisy dogs dangerous.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Some people consider dogs in my neighborhood dangerous.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Some people consider dogs dangerous.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:People with children who use drugs should be locked up.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:This disease gave Leslie a fever in Rome.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The love of my life and mother of my children would never do such a thing.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Most elections are quickly forgotten, but the election of 2000, everyone will remember for a long time.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:It is painting by Klee or drawing by Miro that the museum displays no.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The defendant denied the accusation.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The teacher disappeared the problem.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The teacher handed the student.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The bird sings.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The bird sing.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Birds sings.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The birds give the worm a tug.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The bird give the worm a tug.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The birds gives the worm a tug.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Terry delighted in my pain.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Terry delighted.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Terry delighted my pain.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Kerry remarked it was late.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:What additional categories and rules would be required to handle these verbs?\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:We created a monster.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I was already aware of fact.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The defendant deny the allegation.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The defendants denies the allegation.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The defendant walks.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The defendant walk.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The defendants walks.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:How many feature structures categories can label the first daughter?\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The child put the toy on the table.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The teacher became angry with the students.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The teacher became.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The jury believed the defendant lied.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The guests dined.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:We relied on Leslie.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:We relied above Leslie.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:We celebrated in the streets.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:We celebrated in the streets in the rain on Tuesday in the morning.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The children are happy of ice cream.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The children are fond with the ice cream.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The children are fond that they have ice cream.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:A magazine appeared on the newsstands.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:A magazine about crime appeared on the newsstands.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Newsweek appeared on the newsstands.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Newsweek about crime appeared on the newsstands.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The report that crime was declining surprised many people.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The book surprised many people.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The book that crime was declining surprised many people.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The storm arrived after the picnic.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The storm arrived while the picnic.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The storm arrived while we ate lunch.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:This dogs barked.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:These dogs barked.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:A chair was broken.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:They want them arrested.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:They preferred them arrested.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:We preferred them on our team.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:With my parents as supportive as they are, I'll be in fine shape.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:We walks.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Few dog barked.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The dogs barked.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I walk and Dana runs.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:They like us.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Us like them.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Kim likes dogs.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Dogs like Kim.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The person responsible confessed.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The person confessed responsible.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The cat slept soundly and furry.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The soundly and furry cat slept.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Chris walks, Pat eats broccoli, and Sandy plays squash.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:There was some particular dog who saved every family.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Susan frightens her.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Susan told her a story.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Susan told a story to her.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Susan devoted herself to linguistics.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Nobody told Susan about herself.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:That picture of Susan offended her.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:He offended Sandy.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I enjoy yourself.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:They talk to themselves.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Nobody told Susan.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Protect yourself!\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Protect you!\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I met the person who left.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Leslie slept.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Chris handed Bo.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Dana walked and Leslie ran.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Dana walking and Leslie ran.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Dana walking and Leslie running.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:the putter of books left.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Kris donated a book to the library.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The police sprayed the protesters with water.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The police sprayed water on the protesters.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The students drove cars.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:These cars drive easily.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The horse kicked me black and blue.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:They yelled.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The horse raced past the barn fell.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The horse that was raced past the barn fell.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The boat seen down the river sank.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The evidence assembled by the prosecution convinced the jury.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Lou forgot the umbrella.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Lou forgot the umbrella in the closet.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Lou hoped the umbrella was broken.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Lou hoped the umbrella in the closet.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Lou put the umbrella was broken.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Lou put the umbrella in the closet.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The artist drew the child with a pencil.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The dog bit the cat.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The cat was bitten the mouse.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The cat was bitten the mouse by the dog.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Chris was handed Sandy a note by Pat.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Chris was handed a note.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Chris was handed Sandy a note.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:TV puts dumb ideas in children's heads.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Dumb ideas are put in children's heads by TV.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Dumb ideas are put in children's heads.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Dumb ideas are put notions in children's heads by TV.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The patient died.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The patient was died.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Chris was handed.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:TV puts dumb ideas.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:He was arrested by the police.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The cat got bitten.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The cat were bitten by the dog.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:There is a monster in Loch Ness.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:It is obvious that Pat is lying.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Pat is the captain of the team.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Pat is hate Chris.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:There is a unicorn in the garden.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:There was a felon elected to the city council.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:There is a seat available.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:A seat available was in the last row.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Many people were fond of Pat.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:People are looking through the window.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:A felon was elected to the city council.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:There loved Sandy.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:We talked to them about there.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:It mattered that the Giants had lost.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:That dogs bark annoys people.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:It annoys people that dogs bark.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:That Chris knew the answer occurred to Pat.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:It never occurred to Pat that Chris knew the answer.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:That the Cardinal won the game gave Sandy a thrill.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:It gave Sandy a thrill that the Cardinal won the game.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:That Sandy had lied suggested.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:It loved Sandy.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Cohen proved the independence of the continuum hypothesis.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Cohen proved that the continuum hypothesis was independent.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:We forgot our invitations.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Nobody saw Pat.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:That Fido barks annoys me.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Fido barks.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Chris dreads the bucket.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The candidates bring advantage to the voters.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Tabs are kept on suspected drug dealers by the FBI.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Advantage is taken of every opportunity for improvement.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The bucket was kicked by Pat.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John is sad.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John loaded the wagon full with hay.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John loaded the wagon with hay green.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I presented John with it dead.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Of whom are you thinking?\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John became rich.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I gave John gold apples.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:how silly is Bill considered?\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:how mad was Bill made?\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John is sick.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John left singing.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John is near Larry.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John gave Bill the dog dead.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:Bill was struck by John as stupid.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John was struck as sick.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John was struck by Bill's idiocy.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John promised Bill to leave.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John tried to leave.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:To leave would be a pleasure.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John was struck by Bill as pompous.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John was promised by Bill to leave.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:They make good cooks.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:there is nothing to do.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John has something for Bill to do.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I am counting on Bill to incriminate himself.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:On whom are you counting to incriminate himself?\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I am counting on Bill to get there on time.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I would prefer to leave.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I would hate for John to leave.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I would prefer for John to leave.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:It was hated for John to leave.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John decided for Bill to get the prize.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John decided Bill to get the prize.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:to die is no fun.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John wants to leave.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John counted on Bill to get there on time.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I bought Bill a book to read.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John told Mary that it would be important to leave early.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John told Mary that it was important to Fred to leave early.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John, told Mary that it would be appropriate to leave together.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:the election of John president surprised me.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John's arriving dead surprised me.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:the attempt by John to leave surprised me.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John left orders to follow Pete.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John left us orders to follow Pete.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John left orders not to be disturbed.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:That he is here is clear.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:It is a problem that he is here.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:It bothers me that he is here.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John regretted it that Bill had a good time.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John believes it that Bill is here.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John believes it sincerely that Bill is here.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John is aware of it that Bill is here.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John felt it that Bill was tardy.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John believed it that Bill was tardy.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:It was believed that Bill was tardy.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:That John is reluctant seems.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:It is the problem that he is here.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:That he is here is the problem.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The problem we are discussing is George.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:It is to give up to leave.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:It would prove our theory to be untenable for carrots to be vegetables.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:It was believed to be illegal by them to do that.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John grudgingly accepted judgments of his incompetence as an auto mechanic.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:It was to John that I gave the book.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I bought it to read.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I bought it to give to Pete.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I gave it to Pete to take to the fair.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I gave Pete the book to impress.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I wrote to Bill.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I presented it to Bill to read.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I presented Bill with it to read.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:I gave a book to Bill to read.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John thinks it would upset himself to die.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John made Bill mad at himself.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John made Bill master of himself.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The correspondence school made Bill a good typist.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:The correspondence school sent Bill a good typist.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John considers Bill silly.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John considers Bill to be silly.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John bought a dog for himself to play with.\nOutput:", "output": "no"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John arranged for himself to get the prize.\nOutput:", "output": "yes"}
+{"input": " Given a sentence, judge the grammatical acceptability of the sentence with yes or no.\nSentence:John talked to Bill about himself.\nOutput:", "output": "yes"}
