@@ -1,0 +1,30 @@
+{
+  "model_path":"/llama/llama3",
+  "dataset":"llama_8_mode5_ia3_new_GSM8K_2024",
+  "data_path": "/dataset/GSM8K/data_train.json",
+  "test_data_path": "/dataset/GSM8K/data_test.json",
+  "max_input_length": 512,
+  "max_output_length": 512,
+  "device": "cuda:0",
+  "data_device": "cuda:0",
+
+  "peft": "ia3",
+  "lora_r": 16,
+  "lora_alpha": 16,
+  "lora_dropout": 0.1,
+
+  "gate_rank":8,
+  "top_rank":8,
+  "dropout_prob": 0.0,
+
+  "num_epochs": 3,
+  "batch_size": 4,
+  "accumulation_steps":2,
+  "optimizer": "adamw",
+  "momentum": 0.9,
+  "weight_decay":0.0,
+  "learning_rate": 0.003,
+  "lr_schedule": "linear",
+  "num_warmup_ratio": 0.03,
+  "mode":5,
+}
