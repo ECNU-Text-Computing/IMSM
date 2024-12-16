@@ -1,5 +1,5 @@
 {
-  "model_path":"/llama/llama3.1-8b-instruct",
+  "model_path":"/llama/llama3",
   "dataset":"llama_8_mode5_lora_new_GSM8K_2024",
   "data_path": "/dataset/GSM8K/data_train.json",
   "test_data_path": "/dataset/GSM8K/data_test.json",
